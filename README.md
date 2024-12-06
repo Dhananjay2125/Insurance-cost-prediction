@@ -1,6 +1,6 @@
 
 ## Health insurance cost prediction
-## Health insurance cost prediction
+
 ### Overview
 This project aims to predict the insurance costs of individuals based on various features such as age, sex, BMI, children, smoking habits, and region using machine learning algorithms. The goal is to build a model that can accurately predict the insurance charges to help insurance companies assess risk and set appropriate pricing.
 
